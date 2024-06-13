@@ -12,7 +12,9 @@ I'm a tech enthusiast with a deep love for innovation at the intersection of Cha
 - 🔭 I’m currently working on more ChatGPT and OpenAI projects.
 - ✍️ I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m currently learning more about advanced LangChain technology and exploring more AI Web frameworks (their Django, Flask).
+- 💻 My objective is to develop an algorithm for time series prediction, which can forecast future values based on past data.                
 - 💻 I'm looking for a freelancing job, if you want to hire me, I can satisfy your need.
+  
 
 ### 🛠 Language and tools</h3>
 
