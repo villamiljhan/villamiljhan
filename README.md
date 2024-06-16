@@ -8,8 +8,9 @@
 ### About Me
 
 I'm a tech enthusiast with a deep love for innovation at the intersection of ChatGPT , Large Language Model(LLM), and deep learning. My mission? To push the boundaries of what's possible and create tools that make the world a better, smarter place!
+Proficient in leveraging advanced natural language processing (NLP) technologies to deliver real-time, accurate, and efficient translation solutions. Adept at integrating , including Azure, Google Cloud Platform (GCP), and Amazon Web Services (AWS)to enhance the performance, reliability, and security of translation applications.
 
-- 🔭 I’m currently working on more ChatGPT and OpenAI projects.
+- 🔭 I’m currently working on more ChatGPT, OpenAI, Text-To-Speech and Speech-To-Text, Real-Time LanguageTranslation projects.
 - ✍️ I’m currently working on more blockchain and web3 projects.
 - 🌱 I’m currently learning more about advanced LangChain technology and exploring more AI Web frameworks (their Django, Flask).
 - 💻 My objective is to develop an algorithm for time series prediction, which can forecast future values based on past data.                
